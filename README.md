@@ -9,7 +9,7 @@ Built with PyTorch and trained on the **Mendeley Waste Classification Dataset**.
 ---
 
 ## 📂 Dataset
-[Mendeley Waste Classification Dataset](https://data.mendeley.com/datasets/fwsnvgvddb/1)
+[Mendeley Waste Classification Dataset]([https://data.mendeley.com/datasets/fwsnvgvddb/1](https://data.mendeley.com/datasets/n3gtgm9jxj/2))
 
 Structure
 data/
