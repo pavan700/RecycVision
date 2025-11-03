@@ -1,0 +1,6 @@
+# Ignore virtual environments and large files
+venv/
+__pycache__/
+*.pth
+*.zip
+dataset/
